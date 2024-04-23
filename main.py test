@@ -1,0 +1,11 @@
+#importing libraries and inializing pygame
+import pygame as pg
+pg.init()
+
+#default settings
+H = 600
+W = 600
+FPS = 30
+
+#display
+sc = pg.display.set_mode()
